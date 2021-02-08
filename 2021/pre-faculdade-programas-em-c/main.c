@@ -1,3 +1,5 @@
+// PROGRAMA PARA RESERVA DE ASSENTOS EM UM AVIÃO
+
 #include <stdio.h>
 #include <stdlib.h>
 
